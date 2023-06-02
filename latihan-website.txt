@@ -2,4 +2,7 @@ Latihan dasar membuat website
 - html
 - css
 - javascrip
-- 
+- MySql
+- NodeJS
+- ReactJS
+- PHP
