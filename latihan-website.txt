@@ -1,0 +1,5 @@
+Latihan dasar membuat website
+- html
+- css
+- javascrip
+- 
