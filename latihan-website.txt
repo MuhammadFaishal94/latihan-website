@@ -3,12 +3,12 @@ Latihan dasar membuat website
   * Belajar dasar html
   * Belajar dasar membuat website
 - css
-- javascrip
-- NodeJS
-- ReactJS
+- javascript
+  ^ ReactJS
 - PHP
 - Larvel-10
 - ASP.NET
 - C#
+- Database MySql
 
 
