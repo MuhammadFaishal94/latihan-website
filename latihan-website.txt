@@ -4,7 +4,7 @@ Latihan dasar membuat website
   * Belajar dasar membuat website
     ^ menggunakan bootstrap 5.3
 - css
-- javascrip
+- javascript
 - NodeJS
 - ReactJS
 - PHP
@@ -12,5 +12,6 @@ Latihan dasar membuat website
 - ASP.NET
 - C#
 - Python
+- Database MySQL
 
 
