@@ -4,10 +4,13 @@ Latihan dasar membuat website
   * Belajar dasar membuat website
   * Belajar membuat website portfolio
 - css
-- javascrip
+- javascript
+  ^ ReactJS
+  ^ NodeJS
 - PHP
 - Larvel-10
 - ASP.NET
 - C#
+- Database MySq
 
 
