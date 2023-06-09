@@ -1,5 +1,7 @@
 Latihan dasar membuat website
 - html
+  * Belajar dasar html
+  * Belajar dasar membuat website
 - css
 - javascrip
 - NodeJS
