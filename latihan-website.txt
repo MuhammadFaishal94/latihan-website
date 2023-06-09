@@ -5,10 +5,11 @@ Latihan dasar membuat website
 - css
 - javascript
   ^ ReactJS
+  ^ NodeJS
 - PHP
 - Larvel-10
 - ASP.NET
 - C#
-- Database MySql
+- Database MySq
 
 
