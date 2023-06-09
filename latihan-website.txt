@@ -2,6 +2,7 @@ Latihan dasar membuat website
 - html
   * Belajar dasar html
   * Belajar dasar membuat website
+    ^ menggunakan bootstrap 5.3
 - css
 - javascrip
 - NodeJS
@@ -10,5 +11,6 @@ Latihan dasar membuat website
 - Larvel-10
 - ASP.NET
 - C#
+- Python
 
 
