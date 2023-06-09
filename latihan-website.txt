@@ -2,11 +2,10 @@ Latihan dasar membuat website
 - html
   * Belajar dasar html
   * Belajar dasar membuat website
-    ^ Tailwind
-    ^ Bootstrap
 - css
-- javascript
-  ^ ReactJS 
+- javascrip
+- NodeJS
+- ReactJS
 - PHP
 - Larvel-10
 - ASP.NET
