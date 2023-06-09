@@ -8,5 +8,7 @@ Latihan dasar membuat website
 - ReactJS
 - PHP
 - Larvel-10
+- ASP.NET
+- C#
 
 
