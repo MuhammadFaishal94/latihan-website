@@ -5,8 +5,6 @@ Latihan dasar membuat website
   * Belajar membuat website portfolio
 - css
 - javascrip
-- NodeJS
-- ReactJS
 - PHP
 - Larvel-10
 - ASP.NET
