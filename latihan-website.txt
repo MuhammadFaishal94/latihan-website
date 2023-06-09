@@ -2,10 +2,9 @@ Latihan dasar membuat website
 - html
   * Belajar dasar html
   * Belajar dasar membuat website
+  * Belajar membuat website portfolio
 - css
 - javascrip
-- NodeJS
-- ReactJS
 - PHP
 - Larvel-10
 - ASP.NET
